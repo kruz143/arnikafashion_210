@@ -1,0 +1,306 @@
+[12-Sep-2020 01:20:43 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[13-Sep-2020 09:29:39 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 403
+[13-Sep-2020 09:29:49 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 607
+[13-Sep-2020 09:43:15 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 168
+[13-Sep-2020 10:08:53 UTC] PHP Warning:  copy(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/upgrade/et-core-plugin-B466w4/et-core-plugin/packages/customizer-export-import/readme.txt): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[13-Sep-2020 10:08:53 UTC] PHP Warning:  chmod(): No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[13-Sep-2020 10:08:53 UTC] PHP Warning:  chmod(): No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[13-Sep-2020 10:08:53 UTC] PHP Warning:  copy(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/upgrade/et-core-plugin-B466w4/et-core-plugin/packages/customizer-export-import/readme.txt): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[13-Sep-2020 10:08:53 UTC] PHP Warning:  chmod(): No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[13-Sep-2020 10:09:04 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 403
+[13-Sep-2020 10:09:19 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:09:19 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:09:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 10:11:23 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 168
+[13-Sep-2020 10:11:26 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 403
+[13-Sep-2020 10:12:21 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 403
+[13-Sep-2020 10:25:30 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 403
+[13-Sep-2020 10:28:00 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 168
+[13-Sep-2020 10:28:08 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 403
+[13-Sep-2020 10:28:18 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 607
+[13-Sep-2020 10:28:51 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:28:51 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:28:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 10:29:17 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:29:17 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:29:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 10:29:25 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:29:25 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:29:25 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 10:38:28 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:38:28 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:38:28 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 10:38:32 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:38:32 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:38:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 10:38:47 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:38:47 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:38:47 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 10:57:48 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:57:48 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:57:48 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 10:57:51 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:57:51 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:57:51 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 10:57:56 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:57:56 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:57:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 10:59:20 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:59:20 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 10:59:20 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 11:37:07 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 11:37:07 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 11:37:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 11:37:14 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 11:37:14 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 11:37:14 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 11:41:32 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 11:41:32 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 11:41:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 11:41:36 UTC] PHP Warning:  include_once(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 11:41:36 UTC] PHP Warning:  include_once(): Failed opening '/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/traits/base.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php on line 82
+[13-Sep-2020 11:41:36 UTC] PHP Fatal error:  Uncaught Error: Class 'Customizer' not found in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php:181
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(124): ETC\Inc\Router->dispatch(Array, 'any')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php(109): ETC\Inc\Router->_register_routes()
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/core.php(90): ETC\Inc\Router->__construct()
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(183): ETC\Inc\Core->__construct()
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(117): ETC_Initial->run_etc()
+#5 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/et-core-plugin.php(103): ETC_Initial->__const in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/inc/router.php on line 181
+[13-Sep-2020 12:08:53 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 403
+[13-Sep-2020 12:08:57 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 607
+[13-Sep-2020 12:12:42 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 403
+[13-Sep-2020 12:50:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type WP_Error as array in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/controllers/admin/import.php:655
+Stack trace:
+#0 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/controllers/admin/import.php(139): ETC\App\Controllers\Admin\Import->import_variations_trems('variations_trem...')
+#1 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/class-wp-hook.php(287): ETC\App\Controllers\Admin\Import->import_data('')
+#2 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-admin/admin-ajax.php(176): do_action('wp_ajax_etheme_...')
+#5 {main}
+  thrown in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/et-core-plugin/app/controllers/admin/import.php on line 655
+[13-Sep-2020 13:21:46 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 607
+[13-Sep-2020 13:24:38 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 403
+[17-Sep-2020 20:43:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/panel/classes/generator.php on line 205
+[19-Sep-2020 05:44:09 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[19-Sep-2020 19:56:19 UTC] PHP Warning:  Attempt to assign property 'checked' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 244
+[19-Sep-2020 19:56:19 UTC] PHP Warning:  Attempt to assign property 'url' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 245
+[19-Sep-2020 19:56:19 UTC] PHP Warning:  Attempt to assign property 'package' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 246
+[19-Sep-2020 20:25:42 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'scfw_fs_uninstall_cleanup' not found or invalid function name in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/class-wp-hook.php on line 287
+[19-Sep-2020 21:16:29 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2' at line 1 for query 2 made by do_action('wp_ajax_delete-plugin'), WP_Hook->do_action, WP_Hook->apply_filters, wp_ajax_delete_plugin, delete_plugins, uninstall_plugin, include_once('/plugins/woo-variation-swatches/uninstall.php')
+[19-Sep-2020 21:49:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2' at line 1 for query 2 made by do_action('wp_ajax_delete-plugin'), WP_Hook->do_action, WP_Hook->apply_filters, wp_ajax_delete_plugin, delete_plugins, uninstall_plugin, include_once('/plugins/woo-variation-swatches/uninstall.php')
+[19-Sep-2020 21:55:19 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '0' at line 1 for query 0 made by do_action('wp_ajax_delete-plugin'), WP_Hook->do_action, WP_Hook->apply_filters, wp_ajax_delete_plugin, delete_plugins, uninstall_plugin, include_once('/plugins/woo-variation-swatches/uninstall.php')
+[19-Sep-2020 22:27:56 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1' at line 1 for query 1 made by do_action('wp_ajax_delete-plugin'), WP_Hook->do_action, WP_Hook->apply_filters, wp_ajax_delete_plugin, delete_plugins, uninstall_plugin, include_once('/plugins/woo-variation-swatches/uninstall.php')
+[20-Sep-2020 05:32:36 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[20-Sep-2020 05:42:30 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[20-Sep-2020 05:50:42 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[21-Sep-2020 20:09:27 UTC] PHP Warning:  Attempt to assign property 'checked' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 244
+[21-Sep-2020 20:09:27 UTC] PHP Warning:  Attempt to assign property 'url' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 245
+[21-Sep-2020 20:09:27 UTC] PHP Warning:  Attempt to assign property 'package' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 246
+[24-Sep-2020 19:59:13 UTC] PHP Warning:  Attempt to assign property 'checked' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 244
+[24-Sep-2020 19:59:13 UTC] PHP Warning:  Attempt to assign property 'url' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 245
+[24-Sep-2020 19:59:13 UTC] PHP Warning:  Attempt to assign property 'package' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 246
+[26-Sep-2020 12:18:00 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:18:38 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:19:06 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:19:46 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:21:18 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:22:03 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:22:36 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:23:04 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:23:35 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:24:47 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:25:58 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:27:08 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:27:50 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:28:54 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:29:27 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:30:06 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:31:01 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:31:55 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:32:18 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:32:36 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:33:34 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:34:19 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:35:34 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:36:46 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:37:35 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:38:35 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:39:13 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:42:03 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:45:26 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:46:02 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:46:44 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:47:29 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:48:23 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:49:09 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:50:22 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:51:09 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:52:26 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:53:23 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:54:00 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:54:33 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:55:10 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:55:52 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:56:31 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:56:56 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:57:29 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[26-Sep-2020 12:58:03 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[28-Sep-2020 15:13:22 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 607
+[29-Sep-2020 13:05:29 UTC] PHP Warning:  Attempt to assign property 'checked' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 244
+[29-Sep-2020 13:05:29 UTC] PHP Warning:  Attempt to assign property 'url' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 245
+[29-Sep-2020 13:05:29 UTC] PHP Warning:  Attempt to assign property 'package' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 246
+[29-Sep-2020 13:05:34 UTC] PHP Warning:  Attempt to assign property 'checked' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 244
+[29-Sep-2020 13:05:34 UTC] PHP Warning:  Attempt to assign property 'url' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 245
+[29-Sep-2020 13:05:34 UTC] PHP Warning:  Attempt to assign property 'package' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 246
+[30-Sep-2020 19:51:24 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 607
+[02-Oct-2020 19:50:23 UTC] PHP Warning:  Attempt to assign property 'checked' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 244
+[02-Oct-2020 19:50:23 UTC] PHP Warning:  Attempt to assign property 'url' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 245
+[02-Oct-2020 19:50:23 UTC] PHP Warning:  Attempt to assign property 'package' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 246
+[05-Oct-2020 13:10:59 UTC] PHP Warning:  Attempt to assign property 'checked' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 244
+[05-Oct-2020 13:10:59 UTC] PHP Warning:  Attempt to assign property 'checked' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 244
+[05-Oct-2020 13:10:59 UTC] PHP Warning:  Attempt to assign property 'url' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 245
+[05-Oct-2020 13:10:59 UTC] PHP Warning:  Attempt to assign property 'url' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 245
+[05-Oct-2020 13:10:59 UTC] PHP Warning:  Attempt to assign property 'package' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 246
+[05-Oct-2020 13:10:59 UTC] PHP Warning:  Attempt to assign property 'package' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 246
+[07-Oct-2020 16:43:18 UTC] PHP Warning:  Attempt to assign property 'checked' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 244
+[07-Oct-2020 16:43:18 UTC] PHP Warning:  Attempt to assign property 'url' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 245
+[07-Oct-2020 16:43:18 UTC] PHP Warning:  Attempt to assign property 'package' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 246
+[08-Oct-2020 09:21:04 UTC] PHP Warning:  copy(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/upgrade/wordpress-seo.15.0-LoQoko/wordpress-seo/license.txt): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[08-Oct-2020 09:21:04 UTC] PHP Warning:  chmod(): No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[08-Oct-2020 09:21:04 UTC] PHP Warning:  chmod(): No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[08-Oct-2020 09:21:04 UTC] PHP Warning:  copy(/home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/upgrade/wordpress-seo.15.0-LoQoko/wordpress-seo/license.txt): failed to open stream: No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-admin/includes/class-wp-filesystem-direct.php on line 309
+[08-Oct-2020 09:21:04 UTC] PHP Warning:  chmod(): No such file or directory in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-admin/includes/class-wp-filesystem-direct.php on line 173
+[08-Oct-2020 09:21:11 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 168
+[08-Oct-2020 09:21:47 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-includes/update.php on line 607
+[09-Oct-2020 20:04:35 UTC] PHP Warning:  Attempt to assign property 'checked' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 244
+[09-Oct-2020 20:04:35 UTC] PHP Warning:  Attempt to assign property 'url' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 245
+[09-Oct-2020 20:04:35 UTC] PHP Warning:  Attempt to assign property 'package' of non-object in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore/framework/version-check.php on line 246
+[17-Oct-2020 14:42:51 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/string-locator/includes/class-string-locator.php on line 556
+[17-Oct-2020 14:42:53 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/string-locator/includes/class-string-locator.php on line 556
+[17-Oct-2020 14:42:53 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/string-locator/includes/class-string-locator.php on line 556
+[17-Oct-2020 14:52:57 UTC] PHP Warning:  array_merge(): Expected parameter 1 to be an array, string given in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/plugins/string-locator/includes/class-string-locator.php on line 556
+[17-Oct-2020 16:32:31 UTC] PHP Parse error:  syntax error, unexpected '( 'et_ht', 'x' in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/wp-content/themes/xstore-child/framework/theme-functions.php on line 868
+[22-Oct-2020 11:41:18 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => request
+    [path] => https://api.cloudflare.com/client/v4/zones/?name=arnikafashionstore.com
+    [timeout] => 30
+    [method] => GET
+    [headers] => Array
+        (
+            [Content-Type] => application/json
+            [X-Auth-Email] => krushna.shah03@gmail.com
+            [X-Auth-Key] => c6468be72135bbcb9db97b832ed9520428f50
+        )
+
+)
+ 
+[22-Oct-2020 11:41:18 UTC] [Cloudflare] ERROR: [CLIENT API] Array
+(
+    [type] => response
+    [reason] => Forbidden
+    [code] => 403
+)
+ 
+[22-Oct-2020 11:41:18 UTC] [Cloudflare] ERROR: Forbidden 
+[22-Oct-2020 11:41:18 UTC] [Cloudflare] ERROR: Email address or API key invalid. 
+[24-Oct-2020 10:14:07 UTC] WordPress database error Query execution was interrupted for query SELECT option_value FROM wp_options WHERE option_name = 'jetpack_excluded_extensions' LIMIT 1 made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, Jetpack_Gutenberg::init, Jetpack_Gutenberg::get_available_extensions, get_option

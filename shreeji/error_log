@@ -1,0 +1,3 @@
+[05-Aug-2020 15:31:14 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/shreeji/mysql.php on line 1783
+[23-Aug-2020 08:35:32 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/shreeji/user_details.php on line 29
+[23-Aug-2020 08:35:32 Asia/Kolkata] PHP Notice:  Undefined offset: 0 in /home/f767tqhjtgsb/public_html/arnikafashionstore.com/shreeji/user_details.php on line 30
