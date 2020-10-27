@@ -1,0 +1,37 @@
+.elementor-element .et-menu-list .type-img.position-center-center img,
+.elementor-element .et-menu-list .type-img.position-center-center i,
+.elementor-element .et-menu-list .type-img.position-center-center svg {
+  display: block;
+  margin: 0;
+}
+.elementor-element .swiper-container {
+  z-index: 0 !important;
+}
+.elementor-element .swiper-pagination {
+  position: relative;
+  text-align: center;
+  transition: 300ms;
+}
+.elementor-element .et-slider .swiper-pagination {
+  position: absolute;
+}
+.elementor-element .swiper-container-horizontal > .swiper-pagination-bullets,
+.elementor-element .swiper-pagination-custom,
+.elementor-element .swiper-pagination-fraction {
+  bottom: 0;
+}
+.elementor-element .swiper-button-next,
+.elementor-element .swiper-button-prev {
+  width: var(--arrow-size, 50px);
+  height: var(--arrow-size, 50px);
+  position: absolute;
+  top: calc(50% - var(--arrow-size, 50px) / 2);
+  margin: 0;
+}
+.elementor-text-editor p {
+  font-size: inherit;
+  line-height: inherit;
+}
+.swiper-slide .content-product .button {
+  display: inline-block;
+}
