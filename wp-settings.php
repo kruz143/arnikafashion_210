@@ -36,6 +36,7 @@ require ABSPATH . WPINC . '/load.php';
 // Check for the required PHP version and for the MySQL extension or a database drop-in.
 wp_check_php_mysql_versions();
 
+
 // Include files required for initialization.
 require ABSPATH . WPINC . '/class-wp-paused-extensions-storage.php';
 require ABSPATH . WPINC . '/class-wp-fatal-error-handler.php';
