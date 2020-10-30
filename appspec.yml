@@ -9,8 +9,6 @@ hooks:
   BeforeInstall:
     - location: scripts/webserver-stop.sh
       timeout: 300
-      runas: root
   AfterInstall:
     - location: scripts/webserver-start.sh
       timeout: 300
-      runas: root
